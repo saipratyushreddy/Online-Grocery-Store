@@ -1,11 +1,11 @@
 # Online-Grocery-Store
 ## Online Grocery Store using ReactJS, NodeJS, MongoDB, ExpressJS (MERN Stack).
 ### This Web application has to sides - User and Vendor.
-#### Homepage of Web Application | User Side.
+#### Homepage of Web Application.
 ![1 home](https://user-images.githubusercontent.com/61265991/160650509-c4ef8bbd-26e4-4e7b-ab68-961cd01d4896.jpg)
-#### Loginpage for both User and Vendor | User Side.
+#### Loginpage for both User and Vendor.
 ![2 login](https://user-images.githubusercontent.com/61265991/160650515-569ca53a-1fdd-4e51-b49b-d52f1f7d227e.jpg)
-#### Signup Page | User Side.
+#### Signup Page.
 ![14 signup](https://user-images.githubusercontent.com/61265991/160650842-fed7b8f8-bbe3-473d-9fcf-660dc1574e9b.jpg)
 #### After user login, User Homepage | User Side.
 ![3 user_home](https://user-images.githubusercontent.com/61265991/160650522-0b1793b3-c73a-4090-a409-4f32a442b8a4.jpg)
