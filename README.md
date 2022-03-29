@@ -3,7 +3,7 @@
 ### This Web application has to sides - User and Vendor.
 #### Homepage of Web Application.
 ![1 home](https://user-images.githubusercontent.com/61265991/160650509-c4ef8bbd-26e4-4e7b-ab68-961cd01d4896.jpg)
-#### Loginpage for both User and Vendor.
+#### Login Page for both User and Vendor.
 ![2 login](https://user-images.githubusercontent.com/61265991/160650515-569ca53a-1fdd-4e51-b49b-d52f1f7d227e.jpg)
 #### Signup Page.
 ![14 signup](https://user-images.githubusercontent.com/61265991/160650842-fed7b8f8-bbe3-473d-9fcf-660dc1574e9b.jpg)
@@ -12,7 +12,7 @@
 #### List of Stock after Search | User Side.
 ![4 list_stock](https://user-images.githubusercontent.com/61265991/160650525-d4350d4b-fceb-4c97-9e7d-dda09e4689b9.jpg)
 #### Product Page | User Side.
-![5 product_page](https://user-images.githubusercontent.com/61265991/160650534-8e00576f-7641-40d4-8b14-5e9d0bcaeab2.
+![5 product_page](https://user-images.githubusercontent.com/61265991/160650534-8e00576f-7641-40d4-8b14-5e9d0bcaeab2.jpg)
 #### Cart Page | User Side.
 ![6 cart_page](https://user-images.githubusercontent.com/61265991/160650542-022f4a6a-8d10-4273-97fa-b3b00316590d.jpg)
 #### Payment Page | User Side.
